@@ -15,15 +15,6 @@
 
 ---
 
-### 💼 What I Do
-
-- 🌐 **Full-Stack Development** – Java, Spring Boot, React, Node.js
-- ☁️ **Cloud & DevOps** – Azure, Docker, Terraform, GitHub Actions
-- 📊 **AI & NLP Projects** – PDF chatbot, Resume matcher using Python, Spacy, and Streamlit
-- 🔐 **Automation & CI/CD** – Built GitHub Actions pipelines, containerized apps using Docker
-- 📁 **Databases** – MySQL, MongoDB, Firebase
-
----
 
 ### 🛠️ Tech Stack
 
