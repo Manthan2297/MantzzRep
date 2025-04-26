@@ -25,3 +25,7 @@ Frontend:    React.js, Angular, Streamlit
 Database:    MySQL, Firebase, MongoDB
 Cloud/DevOps: Azure, Terraform, Docker, GitHub Actions
 Tools:       Git, VS Code, Postman, Selenium, Figma, Bash, PowerShell
+
+```
+
+
