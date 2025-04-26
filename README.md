@@ -29,7 +29,7 @@ Tools:       Git, VS Code, Postman, Selenium, Figma, Bash, PowerShell
 ```
 
 
-** Projects **
+### Projects 
 
 
 
