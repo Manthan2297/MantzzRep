@@ -33,5 +33,17 @@ Tools:       Git, VS Code, Postman, Selenium, Figma, Bash, PowerShell
 
 
 
-[Mern_Shopping_WebApp](https://github.com/Manthan2297/MERN-Shopping-Store.git) - Full Stack Shopping app for everyone connected to MongoDB with features of Update , Delete, Add...
+[Mern_Shopping_WebApp](https://github.com/Manthan2297/MERN-Shopping-Store.git) - A full-stack shopping web application built with the MERN stack (MongoDB, Express, React, Node.js), featuring product addition, update, and deletion capabilities.
+
+[Amazon-Website_Clone](https://github.com/Manthan2297/Amazon-Website_Clone.git) - A full-stack Amazon website clone built with React and Firebase, offering user authentication, product browsing, add-to-cart functionality, and a secure checkout process.
+
+[Chat-App](https://github.com/Manthan2297/Chat-App.git) - A real-time chat application built with Node.js, Express, MongoDB, and Socket.IO, featuring user authentication, live messaging, and secure communication.
+
+[Genetic-Algorithm-Based-Subset-Sum-Solver](https://github.com/Manthan2297/Genetic-Algorithm-Based-Subset-Sum-Solver.git) - A Java-based solver for the Subset Sum Problem using a Genetic Algorithm, implementing evolutionary strategies to find optimal or near-optimal subsets.
+
+[gRPC-Distribute-File-Retrieval-System](https://github.com/Manthan2297/gRPC-Distribute-File-Retrieval-System.git) - A distributed file retrieval system built with Java and gRPC, enabling efficient client-server communication for file transfer across multiple servers.
+
+[Distributed-File-Retrieval-System-with-ZMQ](https://github.com/Manthan2297/Distributed-File-Retrieval-System-with-ZMQ.git) - A Java-based distributed file retrieval system leveraging ZeroMQ for fast, lightweight message-based communication between servers and clients.
+
+[DataStructure](https://github.com/Manthan2297/DataStructure.git) - A collection of Java implementations for fundamental data structures such as arrays, linked lists, stacks, queues, trees, and graphs, designed for practice and optimization.
 
