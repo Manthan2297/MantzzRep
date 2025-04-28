@@ -38,6 +38,8 @@ Tools:       Git, VS Code, Postman, Selenium, Figma, Bash, PowerShell
 - A full-stack car rental application built with Angular, Spring Boot, and MySQL, featuring user registration, car booking, payment integration, and an admin dashboard for managing vehicles and reservations.
 - **Tools Used:** Angular, Spring Boot, MySQL, Spring Data JPA, Lombok, Azure, GitHub Actions
 
+---
+
 ### 🛒 [Mern_Shopping_WebApp](https://github.com/Manthan2297/MERN-Shopping-Store.git)
 - A full-stack shopping web application built with the MERN stack, featuring product addition, update, and deletion capabilities.
 - **Tools Used:** MongoDB, Express.js, React.js, Node.js, Mongoose, Redux, Axios
