@@ -28,10 +28,6 @@ Tools:       Git, VS Code, Postman, Selenium, Figma, Bash, PowerShell
 
 ```
 
-
-### Projects 
-
-
 ## 📂 Projects
 
 ### 🚗 [Car_Rental](https://github.com/Manthan2297/Car_Rental.git)
