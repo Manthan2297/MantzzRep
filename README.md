@@ -5,15 +5,12 @@
   Passionate about building intelligent, scalable, and secure applications 🌐⚙️☁️
 </p>
 
----
-
 ### 🧠 About Me
 
 🎓 I'm currently pursuing a Master's in Computer Science at **DePaul University**, with a strong foundation in **Java, Spring Boot, React.js**, and **cloud technologies** like **Azure & AWS**.  
 💼 I bring experience from my roles in **software engineering, DevOps, and automation**, building full-stack applications and AI-powered tools.  
 🚀 I'm passionate about **AI/NLP**, **backend development**, and creating tools that solve real-world problems.
 
----
 
 
 ### 🛠️ Tech Stack
