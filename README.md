@@ -25,6 +25,15 @@ Tools:       Git, VS Code, Postman, Selenium, Figma, Bash, PowerShell
 
 ```
 
+# GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+
 ## 📂 Projects
 
 ### 🚗 [Car_Rental](https://github.com/Manthan2297/Car_Rental.git)
