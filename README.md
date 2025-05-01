@@ -56,10 +56,10 @@ Tools:       Git, VS Code, Postman, Selenium, Figma, Bash, PowerShell
 - **Tools Used:** Java, Genetic Algorithm (Evolutionary Computation)
 
 ---
-[Python projects For Fun](https://github.com/Manthan2297/Python-Projects.git)
--A repository of Python projects featuring various fun and educational programs, including GUI-based applications built with Tkinter. Projects include a digital clock, calculator, number guessing game, and more.
-- **Tools used:** Python.
+🐍 Python Projects For Fun
+A repository of various fun and educational Python projects built with Tkinter, including GUI-based applications. Projects include a digital clock, calculator, number guessing game, to-do list, countdown timer, and an alarm clock.
 
+Tools Used: Python, Tkinter
 ---
 ### 📂 [gRPC-Distribute-File-Retrieval-System](https://github.com/Manthan2297/gRPC-Distribute-File-Retrieval-System.git)
 - A distributed file retrieval system built with Java and gRPC, enabling efficient client-server communication for file transfer across multiple servers.
