@@ -56,7 +56,7 @@ Tools:       Git, VS Code, Postman, Selenium, Figma, Bash, PowerShell
 - **Tools Used:** Java, Genetic Algorithm (Evolutionary Computation)
 
 ---
-### 🐍 Python Projects For Fun
+### [🐍 Python Projects For Fun](https://github.com/Manthan2297/Python-Projects.git)
 -A repository of various fun and educational Python projects built with Tkinter, including GUI-based applications. Projects include a digital clock, calculator, number guessing game, to-do list, countdown timer, and an alarm clock.
 -**Tools Used:** Python, Tkinter
 
