@@ -24,11 +24,6 @@ Cloud/DevOps: Azure, Terraform, Docker, GitHub Actions
 Tools:       Git, VS Code, Postman, Selenium, Figma, Bash, PowerShell
 
 ```
-
-# GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manthan2297&show_icons=true&hide_title=true)
-
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan2297&layout=compact)
